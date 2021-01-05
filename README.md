@@ -7,3 +7,5 @@
 2.[ArchWiki - Arch Linux](https://wiki.archlinux.org/)
 
 3.[Patchwork - OzLabs](https://patchwork.ozlabs.org/)
+
+4.[Improving Your Memory by Using the Method of Loci](https://www.verywellhealth.com/will-the-method-of-loci-mnemonic-improve-your-memory-98411#:~:text=How%20Does%20the%20Method%20of%20Loci%20Work%3F%20The,plural%20form%20of%20the%20word%20locus%20%28i.e.%2C%20location%29.)
